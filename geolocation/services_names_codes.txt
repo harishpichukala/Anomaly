@@ -1,0 +1,66 @@
+domain, 1
+netbios_ssn  2
+telnet, 3
+urp_i,  4
+Z39_50, 5
+smtp,   6
+gopher, 7
+private,8
+echo,   9
+shell,  10
+red_i,  11
+eco_i,  12
+sunrpc,  13
+ftp_data,14
+urh_i,   15
+pm_dump, 16
+pop_3,   17
+pop_2,   18
+systat,  19
+ftp,     20
+sql_net, 21
+whois,   22
+netbios_dgm   23
+efs,     24
+remote_job    25
+daytime, 26
+ntp_u,   27
+uucp,    28
+finger,  29
+ldap,    30
+netbios_ns,    31
+kshell,  32
+iso_tsap,33
+ecr_i,   34
+nntp,    35
+printer, 36
+domain_u,37
+uucp_path     38
+courier, 39
+exec,    40
+time,    41
+netstat, 42
+auth,    43
+rje,     44
+hostnames,45
+link,     46
+ssh,47
+http_443, 48
+csnet_ns, 49
+X11,50
+IRC,,51
+login,    52
+supdup,   53
+name,     54
+nnsp,     55
+mtp,56
+http,     57
+bgp,58
+ctf,59
+klogin,   60
+vmnet,    61
+tim_i,    62
+discard,  63
+imap4,    64
+other,    65
+http_8001,66

@@ -1,0 +1,27 @@
+
+Call:
+svm(formula = V42 ~ ., data = trainset)
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+      gamma:  0.02439024 
+
+Number of Support Vectors:  698
+
+ ( 306 392 )
+
+
+Number of Classes:  2 
+
+Levels: 
+ attack normal
+
+
+
+tn[1] 57
+fp[1] 76
+fn[1] 0
+tp[1] 167

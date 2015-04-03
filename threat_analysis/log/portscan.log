@@ -1,0 +1,820 @@
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 09/05-00:05:10.994479 
+event_ref: 0
+192.168.47.1 -> 239.255.255.250 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 53
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:1900
+
+Time: 09/05-00:07:24.166446 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0000:000c (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 99
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-01:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-02:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-00:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-00:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-00:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-02:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-03:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-01:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-01:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-01:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-02:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-03:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-01:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-01:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-01:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+
+Time: 01/04-02:58:47.305697 
+event_ref: 0
+192.168.75.1 -> 192.168.75.132 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 20
+IP Count: 1
+Scanner IP Range: 192.168.75.1:192.168.75.1
+Port/Proto Count: 20
+Port/Proto Range: 21:8888
+
+Time: 01/04-03:40:33.526023 
+event_ref: 0
+192.168.75.138 -> 192.168.75.1 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 3
+Scanned IP Range: 192.168.75.1:224.0.0.251
+Port/Proto Count: 2
+Port/Proto Range: 0:5353
+
+Time: 09/05-01:05:08.058616 
+event_ref: 0
+192.168.47.1 -> 192.168.47.255 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 54
+IP Count: 3
+Scanned IP Range: 192.168.47.255:239.255.255.250
+Port/Proto Count: 3
+Port/Proto Range: 138:17500
+
+Time: 09/05-01:07:23.787200 
+event_ref: 0
+fe80:0000:0000:0000:64bf:98b9:777d:dc42 -> ff02:0000:0000:0000:0000:0000:0001:0002 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 100
+IP Count: 3
+Scanned IP Range: ff02:0000:0000:0000:0000:0000:0000:000c:ff02:0000:0000:0000:0000:0000:0001:0002
+Port/Proto Count: 3
+Port/Proto Range: 547:1900
+
+Time: 09/05-01:10:18.987641 
+event_ref: 0
+192.168.47.145 -> 192.168.47.2 (portscan) UDP Filtered Portsweep
+Priority Count: 0
+Connection Count: 30
+IP Count: 13
+Scanned IP Range: 192.168.47.2:192.168.47.255
+Port/Proto Count: 7
+Port/Proto Range: 53:138
+

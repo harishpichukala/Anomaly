@@ -1,0 +1,1 @@
+https://maps.googleapis.com/maps/api/staticmap?center=13.756,100.499&zoom=12&size=400x400&markers=13.756,100.499
